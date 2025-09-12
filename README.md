@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Learning Journey  
+# 🤖 Machine Learning Journey  
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python) ![NumPy](https://img.shields.io/badge/NumPy-Array%20Computations-orange?logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?logo=pandas) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue?logo=scikitlearn) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)  
 
@@ -99,10 +99,11 @@ pip install -r requirements.txt
 # Open Jupyter Notebook
 jupyter notebook
 
+```
 
 ---
 
-## 📈 Progress Tracker  
+## 📈 Progress Tracker 
 
 - [x] Part 1 - Data Preprocessing ✅  
 - [x] Part 2 - Regression 🔄  
@@ -116,16 +117,15 @@ jupyter notebook
 - [ ] Part 10 - Model Selection & Boosting  
 
 ---
-##🎯 Goal
 
-By the end of this journey, I want to be confident in:
+## 🎯 Goal 
 
-Understanding the end-to-end ML pipeline (preprocessing → model → evaluation)
+By the end of this journey, I want to be confident in:  
 
-Implementing ML algorithms from scratch & using scikit-learn
+- Understanding the end-to-end ML pipeline (preprocessing → model → evaluation)  
+- Implementing ML algorithms from scratch & using scikit-learn  
+- Building deep learning models with ANN & CNN  
+- Applying ML to real-world problems & datasets  
+- Performing model selection & hyperparameter tuning effectively  
 
-Building deep learning models with ANN & CNN
-
-Applying ML to real-world problems & datasets
-
-Performing model selection & hyperparameter tuning effectively
+---
