@@ -107,10 +107,10 @@ jupyter notebook
 
 - [x] Part 1 - Data Preprocessing ✅  
 - [x] Part 2 - Regression 🔄  
-- [ ] Part 3 - Classification  
-- [ ] Part 4 - Clustering  
-- [ ] Part 5 - Association Rule Learning  
-- [ ] Part 6 - Reinforcement Learning  
+- [x] Part 3 - Classification  
+- [x] Part 4 - Clustering  
+- [x] Part 5 - Association Rule Learning  
+- [x] Part 6 - Reinforcement Learning  
 - [ ] Part 7 - Natural Language Processing (NLP)  
 - [ ] Part 8 - Deep Learning  
 - [ ] Part 9 - Dimensionality Reduction  
